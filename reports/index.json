@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-204622-rqhz",
+      "title": "Sho Long I Tripped",
+      "commanders": [
+        "Sho Long I Tripped"
+      ],
+      "dateStart": "2026-07-20T00:46:22.000Z",
+      "dateEnd": "2026-07-20T01:52:55.000Z",
+      "dateLabel": "7/19/2026, 8:46:22 PM - 7/19/2026, 9:52:55 PM",
+      "url": "https://Alexcionix.github.io/myst-wvw-logs/?report=20260719-204622-rqhz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260718-210047-erah",
       "title": "Durgadurg",
       "commanders": [
