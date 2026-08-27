@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-211519-kzyt",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-08-27T01:15:19.000Z",
+      "dateEnd": "2026-08-27T01:55:10.462Z",
+      "dateLabel": "8/26/2026, 9:15:19 PM - 8/26/2026, 9:55:10 PM",
+      "url": "https://Alexcionix.github.io/myst-wvw-logs/?report=20260826-211519-kzyt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260825-211734-tnwy",
       "title": "Durgadurg",
       "commanders": [
