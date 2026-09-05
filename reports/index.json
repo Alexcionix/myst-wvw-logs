@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-233535-0shb",
+      "title": "Sho Long I Tripped",
+      "commanders": [
+        "Sho Long I Tripped"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-09-05T03:35:35.000Z",
+      "dateEnd": "2026-09-05T04:46:25.437Z",
+      "dateLabel": "9/4/2026, 11:35:35 PM - 9/5/2026, 12:46:25 AM",
+      "url": "https://Alexcionix.github.io/myst-wvw-logs/?report=20260904-233535-0shb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260903-210027-mohc",
       "title": "Dynamite Funbags",
       "commanders": [
