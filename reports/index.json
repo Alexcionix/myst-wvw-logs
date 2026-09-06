@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-212932-b334",
+      "title": "Durgadurg",
+      "commanders": [
+        "Durgadurg"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-09-06T01:29:32.000Z",
+      "dateEnd": "2026-09-06T02:02:35.164Z",
+      "dateLabel": "9/5/2026, 9:29:32 PM - 9/5/2026, 10:02:35 PM",
+      "url": "https://Alexcionix.github.io/myst-wvw-logs/?report=20260905-212932-b334",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260904-233535-0shb",
       "title": "Sho Long I Tripped",
       "commanders": [
