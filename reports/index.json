@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-205529-hzlc",
+      "title": "Dynamite Funbags",
+      "commanders": [
+        "Dynamite Funbags"
+      ],
+      "guild": {
+        "id": "A8FD5C4C-1602-4F24-8246-7B2DB1497E34",
+        "name": "Adventures In The Myst",
+        "tag": "Myst"
+      },
+      "dateStart": "2026-09-27T00:55:29.000Z",
+      "dateEnd": "2026-09-27T01:42:09.422Z",
+      "dateLabel": "9/26/2026, 8:55:29 PM - 9/26/2026, 9:42:09 PM",
+      "url": "https://Alexcionix.github.io/myst-wvw-logs/?report=20260926-205529-hzlc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260925-224529-3mta",
       "title": "Dynamite Funbags, Sho Long I Tripped",
       "commanders": [
